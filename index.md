@@ -4,4 +4,4 @@
 
 ## A Start
 
-Gonna work through this: [link to fast.ai](https://www.fast.ai) and make some notes here, probably.
+Gonna work through [fast.ai](https://www.fast.ai) and make some notes here, probably.
